@@ -8,7 +8,7 @@ If you would like, you could also visit my personal portfolio website that I cre
 ## Frequently Asked Questions ❓
 They're not frequently asked. In fact, no one asks them. I just needed a heading 😔.
 ### 🔭 What are you currently working on?
-- 2 personal repositories: jz-web-app and flazey-bot! More to come...
+- 2 personal repositories: jz-web-app and flazey-bot! More to come soon!
 ### 🌱 What are you currently learning?
 - Some full stack, some React & Node.js. Cool stuff really.
 ### 🤔 Do you need help with anything?
