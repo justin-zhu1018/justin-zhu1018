@@ -2,7 +2,7 @@
 
 I'm Justin, a third-year Software Engineering student at SJSU! This is my GitHub page, please feel free to look around and explore the different projects that I have been working on 🙌. 
 
-If you would like, you could also visit my personal portfolio website that I created. It's really simple, but I designed it so it's good 💯. <br /> Link can be found under my beautiful face to the left (or top if you're on mobile 📱).
+If you would like, you could also visit my personal portfolio website that I created. It's really simple, but I designed it so it's good 💯. <br /> Link can be found under my beautiful face to the left (top if you're on mobile 📱) or navigate to it <a href="https://justin-zhu1018.herokuapp.com/">here</a>. <br /> Please note that it takes about 30 seconds to load if left inactive for too long due to Heroku restrictions 🔥.
 
 ### 🔭 I'm currently working on
 - 2 personal repositories: jz-web-app and flazey-bot! More to come soon!
