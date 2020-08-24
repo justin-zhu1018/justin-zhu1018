@@ -2,7 +2,7 @@
 
 I'm Justin, a third-year Software Engineering student at SJSU! This is my GitHub page, please feel free to look around and explore the different projects that I have been working on 🙌. 
 
-If you would like, you could also visit my personal portfolio website that I created. It's really simple, but I designed it so it's good 💯. Link can be found under my beautiful face to the left.
+If you would like, you could also visit my personal portfolio website that I created. It's really simple, but I designed it so it's good 💯. Link can be found under my beautiful face to the left (or top if you're on mobile 📱).
 
 
 ## Frequently Asked Questions ❓
