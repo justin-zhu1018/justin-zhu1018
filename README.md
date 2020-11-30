@@ -5,9 +5,9 @@ I'm Justin, a third-year Software Engineering student at SJSU! This is my GitHub
 If you would like, you could also visit my personal portfolio website that I created. It's really simple, but I designed it so it's good 💯. <br /> Link can be found under my beautiful face to the left (top if you're on mobile 📱) or navigate to it <a target="_blank" rel="noopener noreferrer" href="https://justin-zhu1018.herokuapp.com/">here</a>. Please note that it takes about 30 seconds to load if left inactive for too long due to Heroku restrictions 🔥.
 
 ### 🔭 I'm currently working on
-- 2 personal repositories: <a target="_blank" rel="noopener noreferrer" href="https://github.com/justin-zhu1018/jz-web-app">jz-web-app</a> and <a target="_blank" rel="noopener noreferrer" href="https://github.com/justin-zhu1018/mern-google-api-web-app">mern-google-api-web-app</a>! I'm also back in school and preparing for technical interviews (Leetcode 😎).
+- A bunch of projects! 😁 Also back in school and preparing for technical interviews.
 ### 🌱 I’m currently learning
-- Some full stack, some React & Node.js. Cool stuff really.
+- MERN Stack. Some JavaFX. Cool stuff really.
 ### 🤔 I’m looking for help with
 - <b>Life. What is the meaning of Life? 😭</b>
 ### 💬 Ask me about
