@@ -1,13 +1,13 @@
 ## Hello there 👋
 
-I'm Justin, a third-year Software Engineering student at SJSU graduating in Fall 2021! This is my GitHub page, please feel free to take a look around and explore the different projects that I have been working on 🙌. 
+I'm Justin, a fourth-year Software Engineering student at SJSU graduating in Fall 2021! This is my GitHub page, please feel free to take a look around and explore the different projects that I have been working on 🙌. 
 
 If you would like, you could also visit my personal portfolio website that I created. Link can be found under my profile picture to the left (top if you're on mobile 📱) or navigate to it <a target="_blank" rel="noopener noreferrer" href="https://justin-zhu1018.herokuapp.com/">here</a>. Please note that it takes about 30 seconds to load if left inactive for too long due to Heroku restrictions.
 
 ### 🔭 I'm currently working on
 - Back in school and preparing for technical interviews.
 ### 🌱 I’m currently learning
-- MERN Stack. Cool stuff really.
+- VS Code snippets! More MERN Stack! Spring Boot, Docker, Gradle, GCP Kubernetes, more stuff...
 ### 🤔 I’m looking for help with
 - <b>Life. What is the meaning of Life? 😭</b>
 ### 💬 Ask me about
